@@ -1,4 +1,4 @@
-### Hi there 👋
+[![rafaelncarvalho](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelncarvalho&hide=html&layout=compact&theme=default)](https://github.com/rafaelncarvalho/)
 
 <!--
 **rafaelncarvalho/rafaelncarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
